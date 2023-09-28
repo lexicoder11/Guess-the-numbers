@@ -33,7 +33,7 @@ Is it... 66? Y
 Your number was 66!
 ```
 
-## Hints
+## Hint
 
 * Before writing real code in a text editor, try writing *pseudocode* or a *flowchart* on paper, or as comments in your program file. That will help you to understand the essence of the algorithm without getting bogged down in syntax (like semicolons and parentheses).
 
